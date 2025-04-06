@@ -1,11 +1,16 @@
 head ,body{
     margin: 0% !important;
-    padding: 0% !important; 
+    padding: 0% !important;
+    background-color: rgb(5, 31, 61) !important;
 }
 .carousel-inner img{
     height:650px !important;
     width: 100% !important;
 }
+.scrollspy-example {
+    color: white;
+}
+
 .navbar{
     background-color: rgb(139,207,0) !important;
 }
@@ -56,6 +61,7 @@ a:hover{
     .cont
     {
         text-align: center !important;
+        color: white;
     }
     
     .balls {
@@ -63,6 +69,14 @@ a:hover{
         margin-left: 30% !important;
         margin-right: 30% !important;
         margin-top: 50px !important;
+    }
+    .balls input{
+        background-color: rgb(16, 77, 148) !important;
+
+    }
+    .balls textarea{
+        background-color: rgb(16, 77, 148) !important;
+
     }
     
     
