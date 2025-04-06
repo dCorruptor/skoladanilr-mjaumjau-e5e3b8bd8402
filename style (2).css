@@ -1,0 +1,130 @@
+head ,body{
+    margin: 0% !important;
+    padding: 0% !important; 
+}
+.carousel-inner img{
+    height:650px !important;
+    width: 100% !important;
+}
+.navbar{
+    background-color: rgb(139,207,0) !important;
+}
+a:hover{
+    background-color: green !important;
+    font-size: 40 !important;
+    border-radius: 10px !important;
+}
+.a{
+    border-radius: 10px   !important;
+}
+.navbar-brand{
+    color: black !important;
+}
+.nav-link{
+    background-color: rgb(139,207,0) !important;
+    color: black !important;  
+    
+}
+.scrollspy-example h4{
+    text-align: center !important;
+    text-decoration: wavy !important;
+}
+.scrollspy-example p{
+    text-align: justify !important;
+}
+.scrollspy-example {
+    width:80% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.table {
+     background-color: rgb(139,207,0) !important;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.navbar{
+    background-color: rgb(139,207,0) !important;
+    }
+    
+    a:hover{
+        background-color: green;
+        font-size: 20;
+        border-radius: 10px;
+    }
+    
+    .cont
+    {
+        text-align: center !important;
+    }
+    
+    .balls {
+        text-align: center !important;
+        margin-left: 30% !important;
+        margin-right: 30% !important;
+        margin-top: 50px !important;
+    }
+    
+    
+    .cont a{
+        text-decoration: none !important;
+        color: white !important;
+    
+    }
+    .cont button{
+        background-color: rgb(139,207,0) !important;
+        border-radius: 20px !important;
+        margin-left: 40% !important;
+        margin-right: 40% !important;
+        width: 20% !important;
+    }
+    .tel a{
+        text-decoration: none !important;
+        color: white !important;
+    
+    }
+    .balls button{
+        background-color: rgb(139,207,0) !important;
+        border-radius: 20px !important;
+        margin-top: 2em;
+        margin-left: 40% !important;
+        margin-right: 40% !important;
+        width: 20% !important;
+    }
+    .dim img{
+        border-radius: 20px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        display: block !important;
+        width: 20% !important;
+        margin-top: 2em;
+    }
+    navbar{
+        background-color: rgb(139,207,0) !important;
+        }
+    a:hover{
+            background-color: green !important;
+            border-radius: 10px !important;
+            color: black !important;
+        }
+    .table {
+        background-color: rgb(139,207,0) !important;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .nav-link {
+        background-color: rgb(139,207,0) !important;
+    }
+    .dropdown-menu{
+        background-color: rgb(139,207,0) !important;
+        color: black !important;
+    }
+    .dropdown-item{
+        background-color: rgb(139,207,0) !important;
+        color: black !important;
+    }
+    .dropdown-item:hover{
+        background-color: green!important;
+        border-radius: 0% !important;
+    }
